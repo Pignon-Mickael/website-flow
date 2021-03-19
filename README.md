@@ -1,5 +1,6 @@
 # website-flow
 
-mozzarela,
-munster,
-chevre
+fromage a mettre sur une pizza : 
+- mozzarela,
+- munster,
+- chevre
